@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SakshiNarwadiya
+- 👋 Hi, I’m @SakshiN
 - 👀 I’m interested in data science, visualizations and analytics
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on data analysis and related projects
