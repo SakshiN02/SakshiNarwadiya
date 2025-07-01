@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> Hi, I’m @Susie<br>👀 I’m interested in data science, visualizations and analytics<br>🌱 I’m currently learning AI<br>💞️ I’m looking to collaborate on data analysis and related projects<br>📫 How to reach me - dhakadsakshi0051@gmail.com<br>⚡ Fun fact: I see patterns where others see noise- turning data chaos into clarity, one analysis at a time.<br>
+<br> Hi, I’m @SakshiN<br>👀 I’m interested in data science, visualizations and analytics<br>🌱 I’m currently learning AI<br>💞️ I’m looking to collaborate on data analysis and related projects<br>📫 How to reach me - dhakadsakshi0051@gmail.com<br>⚡ Fun fact: I see patterns where others see noise- turning data chaos into clarity, one analysis at a time.<br>
 
 
 
@@ -8,7 +8,7 @@
 SakshiNarwadiya/SakshiNarwadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Susie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiN02)](https://github.com/anuraghazra/github-readme-stats)
+[![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiN02)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-narwadiya-424976318/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhakadsakshi0051@gmail.com) 
 
